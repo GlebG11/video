@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+#videoid{
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+}
+H1{
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    padding: 50px 0 ;
+    color: #20d310;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    display: flex;
+    color: #ff0000;
+    justify-content: center;
+
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    padding: 20px 20px;
+    color: orange;
+}
+body{
+    background-color: #000000;
+}
+a{
+    font-size: 32px;
+    color: orange;
+}
+h3{
+    color: orange;
+}
